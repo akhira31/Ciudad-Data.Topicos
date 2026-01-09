@@ -1,0 +1,5 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+B1,MTA NYCT,B1,Manhattan Beach - Bay Ridge,3
+B2,MTA NYCT,B2,Kings Plaza - Midwood,3
+B3,MTA NYCT,B3,Bergen Beach - Bensonhurst,3
+B15,MTA NYCT,B15,JFK Airport - Bedford Stuyvesant,3
